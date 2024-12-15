@@ -128,8 +128,8 @@ $$
 - La el nucleo se exapnde, por lo tanto se enfría
 - Las capas externas se contraen y comienza fusionar He en C (Rama transversal en el diagrama H-R)
 - Cuando se acaba el He del nucleo (no se puede fusionar el C), comienzan a fusionar He en las capas experiores
-- Se repite este proceso capa por capa hasta quedar una estrella de Carbono
-- Esta fase de expansión-contracción se crea una **Nebulosa Planetaria**
+- Se repite este proceso capa por capa hasta quedar una estrella de Carbono (Enana Blanca)
+- En esta fase de expansión-contracción se va creando una **Nebulosa Planetaria**
 
 ## Nuestro Sol comparado con Betelgeuse
 
