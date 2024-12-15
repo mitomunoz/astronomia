@@ -11,6 +11,7 @@ Donde:
 - $a = 3.5$ se utiliza habitualmente para estrellas de **Secuencia Principal** con masas entre 2 y 55 masas solares y no se aplica a Enanas Blancas o Gigantes Rojas
 
 Resúmen para diferentes rangos de masa
+
 $$ \frac{L}{L_{\odot}} \approx 0.23\left(\frac{M}{M_{\odot}}\right)^{2.3} \left(M < 0.43M_\odot\right)$$
 
 $$ \frac{L}{L_{\odot}} \approx \left(\frac{M}{M_{\odot}}\right)^{4} \left(0.43M < M < 2M_\odot\right)$$
@@ -34,12 +35,57 @@ $$ t_{vida\odot} \approx \left(\frac{Energia_{fusión H->He}\text{ x Cuánto H h
 $$ t_{vida\odot} \approx \left(\frac{M_{\odot}}{L_{\odot}}\right)= \text{10.000 millones de años }10^{10} años$$
 
 Entonces para estrellas en general:
+
 $$t_{vida\star}  \propto \frac{M_{\star}}{L_{\star}}$$
 
 $$t_{vida\star}  \approx  t_{vida\odot}*\left(\frac{M_{\star}}{L_{\star}}\right)$$
 
+Por ejemplo, para una **Estrella de Alta Masa** en Secuencia Principal, si la masa de la estrella es 10 veces la masa del sol, su luminosidad es aproximadamente $10^{4}$ veces la luminosidad del sol
+
+$$ M_{\star}=10M_{\odot} \Rightarrow L_{\star}\approx 10^4L_{\odot} $$
+
+Osea tiene $10$ mas combustible, pero lo consume $10^4$ veces mas rápido. Entonces:
+
+$$
+t_{vida\star} \approx 10^{10}\text{años} \left(\frac{10M_{\odot}}{10^4L_{\odot}}\right) \approx 10^7 \text{años}
+$$
+
+Por otro lado, para una **Estrella de Baja Masa** en la Secuencia Principal, la masa de la estrella es un décimo de la masa del Sol, su luminosidad será aproximadamente $10^{-2}$ la luminosidad del sol.
+
+
+$$ M_{\star}=0.1M_{\odot} \Rightarrow L_{\star}\approx 10^{-2}L_{\odot} $$
+
+Osea tiene 0.1 veces menos combustible, pero lo consume 0.01 veces mas lento. Entonces:
+
+$$
+t_{vida\star} \approx 10^{10}\text{años} \left(\frac{10^{-1}M_{\odot}}{10^{-2}L_{\odot}}\right) \approx 10^{11} \text{años}
+$$
+
+En resumen, la vida de las estrellas está relacionada con su masa.
+
+| **Tipo Espectral** | **Temperatura Superficial** | **Masa**        | **Vida en la secuencia principal**     |
+|--------------------|-----------------------------|-----------------|---------------------------------------|
+| O5                 | 54000 K                     | 40 $M_\odot$    | 1 millón de años                     |
+| B0                 | 29200 K                     | 16 $M_\odot$    | 10 millones de años                  |
+| A0                 | 9600 K                      | 3.3 $M_\odot$   | 500 millones de años                 |
+| F0                 | 7350 K                      | 1.7 $M_\odot$   | 2700 millones de años                |
+| G0                 | 6050 K                      | 1.1 $M_\odot$   | 9000 millones de años                |
+| K0                 | 5240 K                      | 0.8 $M_\odot$   | 14000 millones de años               |
+| M0                 | 3750 K                      | 0.4 $M_\odot$   | 200000 millones de años              |
+
+Y para calcular la edad de las estrellas de un cúmulo podemos usar el Diagrama H-R y buscar donde ocurre  el punto de  **Turn-Off**
+
+- Las Estrellas de alta masa gastan su combustible mas rápido => Salen de la **Secuencia Principal** mas rápido
+- Las Estrellas de baja masa gastan su combustible mas lento => Salen de la  **Secuencia Principal** mas tarde
+
+Así, las estrellas/cúmulos con el **Turn-off** mas abajo en el Diagrama H-R serán mas viejos que quienes hayan salido mas de la secuencia principal mas arriba (respetando Temperatura y Magnitud al comparalos).
+
+
+
+
+
+
 ---
 Ecuación de la Relativida General de Einstein en su notación de índices
-$$
-R_{\mu \nu} - \frac{1}{2}Rg_{\mu \nu} + \Lambda g_{\mu \nu} = \frac {8 \pi G}{c^4} T_{\mu \nu}
-$$
+
+$$ R_{\mu \nu} - \frac{1}{2}Rg_{\mu \nu} + \Lambda g_{\mu \nu} = \frac {8 \pi G}{c^4} T_{\mu \nu} $$
