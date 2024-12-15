@@ -80,12 +80,77 @@ Y para calcular la edad de las estrellas de un cúmulo podemos usar el Diagrama 
 
 Así, las estrellas/cúmulos con el **Turn-off** mas abajo en el Diagrama H-R serán mas viejos que quienes hayan salido mas de la secuencia principal mas arriba (respetando Temperatura y Magnitud al comparalos).
 
+## Vida en la Secuencia Pricipal para estrella de baja masa ($M_{\star} \leq 4M_{\odot}$)
 
+1. Mientras la fusión de Hidrógeno (H) en Helio (He) se mantenga en equilibrio hidrostático y termal, $4H$ se convierten en $1He$, pero el nucleo pierde partículas y para mantener la presión las partículas deben moverse mas rápido, elevando la temperatura
+2. El núcleo comienza a calentarse gradualmente y la tasa de fusión se incrementa. Como consecuencia de ello, la estrella aumenta su brillo
+3. Para mantener el equilibrio hidrostático, la estrella aumenta ligeramente su tamaño (ver ecuación del gas ideal mas abajo)
 
+Por ejemplo, el Sol comparado a cuando empezó la secuencioa principal, actualmente es aproximadamente:
 
+- 30% a 40% mas luminoso
+- Tiene un radio 6% mas grande
+- 300K mas caliente
 
+Ecuación del Gas ideal:
+
+$$pV = Nk_BT$$
+
+Donde $p$ es la presión absoluta de un gas, $V$ es el volumen que ocupa, $N$ es el número de moléculas del gas y $T$ es su temperatura absoluta.
+
+La constante kB se denomina constante de Boltzmann en honor al físico austriaco Ludwig Boltzmann (1844-1906) y tiene el valor
+
+$$
+k_B=1.38\text{ x } 10^{-23} J/K
+$$
+
+[Link a simulador de las propiedades de los gases](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_es.html)
+
+**Cuando se agota el Hidrógeno en el núcleo:**
+
+- No hay mas fusión y el núcleo se encoge
+- Sube la temperatura/presión pero no alcanza para fusionar He
+- Estas altas temperaturas permiten fusionar H en He en capas mas externas al núcleo pero a tasas mayores
+- Se calientan las capas superiores y se expanden
+- El núcleo de He se sigue comprimiendo, aumentándo la temperatura y aumentando la fusión en la cáscara de H
+- Gran aumento de la luminosidad de la estrella ($L_\star$)
+- La expansión de capas externas alcanza tamaños enormes
+- La temperatura superficial disminuye
+- Se forma una **Gigante Roja** (nuestro Sol parará por esta etapa en 5.000 millones de años mas, aproximadamente)
+- Se vuelve mas luminosa y mas fría simultaneamente
+- Abandona la banda de la Secuencia Principal
+
+## Fusión de Helio
+
+- El nucleo aumenta su densidad y se convierte en un gas desgenerado y su temperatura sigue subiendo hasta $10^8 K$
+- Comienza la reacción [triple alfa](./Fusion.md)
+- La temperatura del nucleo aumenta, pero no se expande hasta que ya no soporta la presión y se genera el **Flash de Helio**
+- La el nucleo se exapnde, por lo tanto se enfría
+- Las capas externas se contraen y comienza fusionar He en C (Rama transversal en el diagrama H-R)
+- Cuando se acaba el He del nucleo (no se puede fusionar el C), comienzan a fusionar He en las capas experiores
+- Se repite este proceso capa por capa hasta quedar una estrella de Carbono
+- Esta fase de expansión-contracción se crea una **Nebulosa Planetaria**
+
+## Nuestro Sol comparado con Betelgeuse
+
+| **Propiedad**               | **Sol**                 | **Betelgeuse**             |
+|-----------------------------|-------------------------|----------------------------|
+| **Masa**                    | 1 $ M_\odot $           | 16 $ M_\odot $             |
+| **Radio**                   | 700,000 km              | 500,000,000 km             |
+| **Temperatura superficial** | 5800 K                  | 3600 K                     |
+| **Temperatura del núcleo**  | 15,000,000 K            | 160,000,000 K              |
+| **Luminosidad**             | 1 $ L_\odot $           | 46,000 $ L_\odot $         |
+| **Densidad promedio**       | 1.4 g/cm³               | $1.3 \times 10^{-7}$ g/cm³ |
+| **Edad**                    | 4500 millones de años   | 10 millones de años        |
+
+Todo el proceso de muerte de la estrella se puede escuchar en el [Podcat El orbitador](https://open.spotify.com/episode/5cqh44UzWM7abcdrHfnF2Q?si=fae32a06409e4053)
 
 ---
-Ecuación de la Relativida General de Einstein en su notación de índices
+# Bonus Track
+En [ésta](https://youtu.be/c15gqVv2Nec?si=q1RFGeqigVmmr8qd) serie de videos de Youtube podrás encontra una explicación sencilla, o no tanto, de la Relatividad de Einstein, de donde saqué esta hermosa ecuación:
+
+
 
 $$ R_{\mu \nu} - \frac{1}{2}Rg_{\mu \nu} + \Lambda g_{\mu \nu} = \frac {8 \pi G}{c^4} T_{\mu \nu} $$
+
+$$ \text{ Ecuación de la Relativida General de Einstein en su notación de índices} $$
