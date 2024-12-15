@@ -135,11 +135,11 @@ $$
 
 | **Propiedad**               | **Sol**                 | **Betelgeuse**             |
 |-----------------------------|-------------------------|----------------------------|
-| **Masa**                    | 1 $ M_\odot $           | 16 $ M_\odot $             |
+| **Masa**                    | 1 $M_\odot$           | 16 $M_\odot$             |
 | **Radio**                   | 700,000 km              | 500,000,000 km             |
 | **Temperatura superficial** | 5800 K                  | 3600 K                     |
 | **Temperatura del núcleo**  | 15,000,000 K            | 160,000,000 K              |
-| **Luminosidad**             | 1 $ L_\odot $           | 46,000 $ L_\odot $         |
+| **Luminosidad**             | 1 $L_\odot$           | 46,000 $L_\odot$         |
 | **Densidad promedio**       | 1.4 g/cm³               | $1.3 \times 10^{-7}$ g/cm³ |
 | **Edad**                    | 4500 millones de años   | 10 millones de años        |
 
