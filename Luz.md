@@ -51,7 +51,7 @@ $$ \lambda = \frac{c}{v}$$
 
 Donde:
 
-- $ \lambda$ es la longitud de onda en metros
+- $\lambda$ es la longitud de onda en metros
 - $c$ es la velocidad de la luz en m/s
 - $v$ es la frecuencia en Hz
 
