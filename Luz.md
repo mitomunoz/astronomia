@@ -62,7 +62,7 @@ $$ E = hv$$
 Donde:
 
 - $E$ es la energía del fotón en Joule
-- $h$ es la constante de Plank ( $h=6.62607015×10^{−34} J \cdotp s$ Julio segundos)
+- $h$ es la constante de Plank ( $h=6.62607015×10^{−34} Js$, Julio segundos)
 - $v$ es la frecuencia en Hz
 
 ## Luminosidad
