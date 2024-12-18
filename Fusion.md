@@ -84,7 +84,7 @@ $$ \text{O}^{15} \rightarrow \text{N}^{15} + e^+ + \nu_e $$
 
 $$ \text{N}^{15} + p \rightarrow \text{C}^{12} + \text{He}^4 $$
 
-El ciclo CNO completo tiene como resultado la fusión de cuatro protones (4p) en un átomo de helio-4 ($He^$), con la liberación de energía y la regeneración del catalizador $C^{12}$.
+El ciclo CNO completo tiene como resultado la fusión de cuatro protones (4p) en un átomo de helio-4 ($He^4$), con la liberación de energía y la regeneración del catalizador $C^{12}$.
 
 La ecuación global del ciclo es:
 
