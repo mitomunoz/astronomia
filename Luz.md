@@ -4,7 +4,7 @@ La velicidad de la luz es constante
 
 $$ c = 299.792.458 \text{ m/s} $$
 
-Factor de Lonentz
+Factor de Lorentz
 
 $$ \gamma = \frac{1}{\sqrt{1-v^2/c^2}}$$
 
