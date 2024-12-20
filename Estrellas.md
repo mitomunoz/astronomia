@@ -1,4 +1,5 @@
 # Astrofísica de Estrellas 
+
 ## Resúmen Módulo 3 - Clase 1
 
 Existe una relación empírica entre Masa y Luminosidad de una estrella
@@ -6,6 +7,7 @@ Existe una relación empírica entre Masa y Luminosidad de una estrella
 $$\frac {L}{L_{\odot}} = \left(\frac{M}{M_\odot}\right)^a$$
 
 Donde:
+
 - $L_{\odot}$ y $M_{\odot}$ son la Luminosidad y la Masa del Sol respectivamente
 - $1 < a < 6$
 - $a = 3.5$ se utiliza habitualmente para estrellas de **Secuencia Principal** con masas entre 2 y 55 masas solares y no se aplica a Enanas Blancas o Gigantes Rojas
@@ -51,7 +53,6 @@ t_{vida\star} \approx 10^{10}\text{años} \left(\frac{10M_{\odot}}{10^4L_{\odot}
 $$
 
 Por otro lado, para una **Estrella de Baja Masa** en la Secuencia Principal, la masa de la estrella es un décimo de la masa del Sol, su luminosidad será aproximadamente $10^{-2}$ la luminosidad del sol.
-
 
 $$ M_{\star}=0.1M_{\odot} \Rightarrow L_{\star}\approx 10^{-2}L_{\odot} $$
 
@@ -146,10 +147,10 @@ $$
 Todo el proceso de muerte de la estrella se puede escuchar en el [Podcat El orbitador](https://open.spotify.com/episode/5cqh44UzWM7abcdrHfnF2Q?si=fae32a06409e4053)
 
 ---
-# Bonus Track
+
+## Bonus Track
+
 En [ésta](https://youtu.be/c15gqVv2Nec?si=q1RFGeqigVmmr8qd) serie de videos de Youtube podrás encontra una explicación sencilla, o no tanto, de la Relatividad de Einstein, de donde saqué esta hermosa ecuación:
-
-
 
 $$ R_{\mu \nu} - \frac{1}{2}Rg_{\mu \nu} + \Lambda g_{\mu \nu} = \frac {8 \pi G}{c^4} T_{\mu \nu} $$
 
